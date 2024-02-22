@@ -16,6 +16,7 @@ OfficeToPDFConverterは、Pythonを使用してOfficeドキュメント（Word�
 - Python 3.x
 - `unoconv`
 - LibreOffice
+- fonts-ipafont
 
 ## インストール方法
 
@@ -26,6 +27,7 @@ Google ColabやLinux環境でのインストール例：
 ```bash
 sudo apt-get install -y libreoffice
 sudo apt-get install -y unoconv
+sudo apt-get install -y fonts-ipafont
 ```
 
 ### プロジェクトのクローン
